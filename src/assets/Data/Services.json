@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "name" : "Torneria",
+        "description":"Realizamos trabajos de Torneria.",
+        "url_img" : "Services/Torneria.png"
+    },
+    {
+        "id" : 2,
+        "name" : "Plegado",
+        "description":"Realizamos trabajos de plegado de laminas metalicas.",
+        "url_img" : "Services/Plegado.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Corte",
+        "description":"Realizamos trabajos de corte con pantografo CNC de alta precision.",
+        "url_img" : "Services/CorteCNC2.jpg"
+    }
+]

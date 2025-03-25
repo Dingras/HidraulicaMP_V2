@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Toma de fuerza, Bomba hidráulica y Tanque a medida",
+        "category": "Hidráulica",
+        "client": "Transporte Tumini",
+        "image": "/Projects/12_1.jpg",
+        "isVideo": false
+    },
+    {
+        "id": 2,
+        "title": "Destapa fácil para camion con baranda 360°",
+        "category": "Modernización",
+        "client": "Campoamor Hnos.",
+        "image": "/Projects/5_1.mp4",
+        "isVideo": true
+    },
+    {
+        "id": 3,
+        "title": "Corte de chapa y plegado a medida",
+        "category": "Corte CNC",
+        "client": "La Casa De Hierro",
+        "image": "/Projects/7_2.jpg",
+        "isVideo": false
+    }
+]

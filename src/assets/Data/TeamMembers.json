@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Manuel Pereyra",
+        "position": "Fundador y CEO",
+        "image": "/Team/Manu.png",
+        "bio": "Con más de 20 años de experiencia en el sector, Manuel ha liderado la empresa desde su fundación."
+    },
+    {
+        "name": "Carolina Pereyra",
+        "position": "Directora de Marketing",
+        "image": "/Team/Caro.png",
+        "bio": "Carolina desarrolla estrategias innovadoras para aumentar la visibilidad de la marca."
+    }
+]

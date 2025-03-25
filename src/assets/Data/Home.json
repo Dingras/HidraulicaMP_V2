@@ -1,0 +1,89 @@
+{
+    "welcome":  {
+        "img_url":"Home/Welcome.jpeg",
+        "video_url":"Home/video.mp4",
+        "img_title":"Local Hidraulica MP",
+        "slogan_title":"Hidráulica Manuel Pereyra",
+        "slogan_description":"Confiabilidad y precisión para tus herramientas de trabajo"
+
+    },
+    "who_we_are":{
+        "title": "Sobre nosotros",
+        "description_1": "Somos una empresa familiar con más de 20 años de experiencia en el ámbito de la mecánica, reconocida en Benito Juárez por nuestra dedicación y excelencia. Nos especializamos en ofrecer soluciones para todo tipo de maquinaria, incluyendo agrícola, industrial, de construcción, y más.",
+        "description_2": "Además, brindamos servicios y ventas de sistemas hidráulicos, tornería, corte de plasma con pantógrafo CNC, plegado, y mucho más. Nos enorgullece proporcionar soluciones de alta calidad para una amplia variedad de industrias, asegurando siempre la satisfacción de nuestros clientes.",
+        "button_text": "Conocer más sobre nosotros",
+        "img_url":"/AboutMe/Nosotros.jpeg"
+    },
+    "partners":[
+        {
+            "id":1,
+            "name":"Castrol",
+            "img_url":"Partners/Castrol.png"
+        },
+        {
+            "id": 2,
+            "name":"Hidraulica San Francisco",
+            "img_url":"Partners/HSF.png"
+        },
+        {
+            "id": 3,
+            "name":"Moro Hidraulica",
+            "img_url":"Partners/MoroH.png"
+        },
+        {
+            "id": 4,
+            "name":"Fluid Parts",
+            "img_url":"Partners/FluidParts.png"
+        },
+        {
+            "id": 5,
+            "name":"John Deere",
+            "img_url":"Partners/JohnDeere.png"
+        },
+        {
+            "id": 6,
+            "name":"Massey Ferguson",
+            "img_url":"Partners/MasseyFerguson.png"
+        },
+        {
+            "id": 7,
+            "name":"Venturi",
+            "img_url":"Partners/Venturi.png"
+        },
+        {
+            "id": 8,
+            "name":"Caproni",
+            "img_url":"Partners/Caproni.png"
+        }
+    ],
+    "contact_us":{
+        "title": "¿Quieres comunicarte con nosotros?",
+        "description": "Llámanos o escríbenos, y te ayudaremos a resolver cualquier inquietud.",
+        "button_text": "Comunícate con nosotros",
+        "phone":"+54 2281 55 3881",
+        "phone_spaceless":"542281553881",
+        "phone2":"+54 260 411 0144",
+        "phone2_spaceless":"542604110144",
+        "email":"hidraulicamp@gmail.com",
+        "location":{
+            "street":"Av. Humaita y Juan Jose Hernandez",
+            "city":"Benito Juarez",
+            "state":"Buenos Aires",
+            "country":"Argentina"
+        },
+        "schedule":[
+            {
+                "days":"Lunes a Viernes",
+                "hours":"8:00hs - 20:00hs"
+            },
+            {
+                "days":"Sábados",
+                "hours":"8:00hs - 13:00hs"
+            },
+            {
+                "days":"Domingos",
+                "hours":"Cerrado"
+            }
+        ]
+    }
+}

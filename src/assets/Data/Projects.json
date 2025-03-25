@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "title": "Toma de fuerza, Bomba hidráulica y Tanque a medida",
+        "category": "Hidráulica",
+        "client": "Transporte Tumini",
+        "year": "2025",
+        "description":
+            "En HMP, realizamos la colocación de toma de fuerza y bomba hidráulica, junto con la fabricación de un tanque a medida para su camión.\n🔹 Máxima eficiencia en el sistema hidráulico.\n🔹 Fabricación precisa para un rendimiento óptimo.\n🔹 Calidad y durabilidad garantizadas.",
+        "media": [
+            { "type": "image", "url": "/Projects/12_1.jpg", "alt": "" },
+            { "type": "image", "url": "/Projects/12_2.jpg", "alt": "" },
+            { "type": "image", "url": "/Projects/12_3.jpg", "alt": "" },
+            { "type": "image", "url": "/Projects/12_4.jpg", "alt": "" }
+            ],
+        "thumbnailIndex": 0
+    },
+    {
+        "id": 2,
+        "title": "Mantenimiento preventivo para pulverizadora Metalfor",
+        "category": "Mantenimiento",
+        "client": "Privado",
+        "year": "2024",
+        "description":
+            "🔧🚜 En HMP realizamos mantenimiento preventivo para pulverizadoras Metalfor, garantizando un correcto funcionamiento y prolongando la vida útil de la maquinaria. 💪\n🔹Limpieza de filtros y boquillas.\n🔹Control de presión y caudal.\n🔹Verificación de mangueras y conexiones.\n🔹Control de luces y señalización.\n🔹Revisión de sistema de frenos y dirección.",
+        "media": [
+            { "type": "image", "url": "/Projects/9_1.jpg", "alt": "" },
+            { "type": "image", "url": "/Projects/9_2.jpg", "alt": "" }
+
+        ],
+        "thumbnailIndex": 0
+    },
+    {
+        "id": 3,
+        "title": "Manguera hidráulica R12",
+        "category": "Hidráulica",
+        "client": "Privado",
+        "year": "2024",
+        "description":
+            "Construcción de manguera hidráulica R12 para maquina Caterpillar🔧🚜\n🔹Manguera de alta presión, resistente a la abrasión y a la intemperie.\n🔹Conexiones de acero, garantizando durabilidad y seguridad en el trabajo.\n🔹Fabricación a medida, para un ajuste perfecto y sin fugas.",
+        "media": [
+            { "type": "video", "url": "/Projects/8_1.mp4", "alt": "Manguera 1" }
+        ],
+        "thumbnailIndex": 0
+    },
+    {
+        "id": 4,
+        "title": "Restauración de cabina New Holland",
+        "category": "Pintura",
+        "client": "Privado",
+        "year": "2025",
+        "description":
+            "En HMP también damos nueva vida a tu maquinaria con nuestro servicio de pintura.🔥\n En este caso, realizamos lijado y pintura completa de la cabina de un tractor, garantizando protección y durabilidad. 💪🎨",
+        "media": [
+            { "type": "video", "url": "/Projects/4_1.mp4", "alt": "Pruebas del nuevo sistema" }
+        ],
+        "thumbnailIndex": 0
+    },
+    {
+        "id": 5,
+        "title": "Destapa fácil para camion con baranda 360°",
+        "category": "Modernización",
+        "client": "Campoamor Hnos.",
+        "year": "2025",
+        "description":
+            "✅ Chapa galvanizada del 14, máxima durabilidad y resistencia.\n ✅ Barandas laterales para una apertura total y sin complicaciones.\n ✅ Diseño pensado para optimizar tiempos de descarga y facilitar el trabajo.",
+        "media": [
+            { "type": "video", "url": "/Projects/5_1.mp4", "alt": "Proceso de desmontaje" }
+        ],
+        "thumbnailIndex": 0
+    },
+    {
+        "id": 6,
+        "title": "Corte de chapa y plegado a medida",
+        "category": "Corte CNC",
+        "client": "La Casa De Hierro",
+        "year": "2024",
+        "description":
+            "1200 kg de corte CNC, que se entregó para nuestro cliente de La Casa De Hierro!",
+        "media": [
+            { "type": "image", "url": "/Projects/7_1.jpg", "alt": "Corte 1" },
+            { "type": "image", "url": "/Projects/7_2.jpg", "alt": "Corte 2" },
+            { "type": "video", "url": "/Projects/7_3.mp4", "alt": "Corte 3" },
+            { "type": "video", "url": "/Projects/7_4.mp4", "alt": "Corte 4" }
+        ],
+        "thumbnailIndex": 0
+    }
+]

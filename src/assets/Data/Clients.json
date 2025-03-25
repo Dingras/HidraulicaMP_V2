@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1 ,
+        "name" : "Mario Del Giorgio",
+        "message" : "Que grande manu siempre buscando el desarrollo....felicitaciones todo es resultado de la constancia que tenes👏 por más éxitos...!! 😀",
+        "img_url":"Clients/MarioDelGiorgio.webp"
+    },
+    {
+        "id": 2 ,
+        "name" : "Rodolfo Lopez",
+        "message" : "Felicitaciones amigo y mucha suerte por tu empeño y dedicación. Abrazo grande",
+        "img_url":"Clients/RodolfoLopez.webp"
+    },
+    {
+        "id": 3 ,
+        "name" : "Juan Chayer",
+        "message" : "Grande Manuel,excelente trabajador,lejos el mejor,buen tipo ,buenos precios y excelente persona,super responsable y honesto.merecido todo lo que lograste Manuelito",
+        "img_url":"Clients/JuanChayer.webp"
+    },
+    {
+        "id": 4 ,
+        "name" : "Hector Martin Ledezma",
+        "message" : "Felicitaciones por lo logrado! Éxitos en lo que viene!! A seguir creciendo Manuel! Gracias por tu servicio permanente!",
+        "img_url":"Clients/HectorMartinLedezma.webp"
+    }
+]

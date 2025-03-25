@@ -1,0 +1,18 @@
+{
+    "products":{
+        "title": "Productos",
+        "link" : "/categorias"
+    },
+    "services":{
+        "title": "Servicios",
+        "link" : "/servicios"
+    },
+    "us":{
+        "title": "Nosotros",
+        "link" : "/nosotros"
+    },
+    "contacts":{
+        "title": "Contactos",
+        "link" : "/contacto"
+    }
+}

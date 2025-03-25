@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Whatsapp",
+        "url":"https://wa.link/c9zokk",
+        "icon":"whatsapp"
+    },
+    {
+        "id":2,
+        "name":"Facebook",
+        "url":"https://www.facebook.com/profile.php?id=100068467522498",
+        "icon":"facebook"
+    },
+    {
+        "id":3,
+        "name":"Instagram",
+        "url":"https://www.instagram.com/hidraulicamanuelpereyra",
+        "icon":"instagram"
+    },
+    {
+        "id":4,
+        "name":"Email",
+        "url":"mailto:hidraulicamp@gmail.com",
+        "icon":"mail"
+    }
+]

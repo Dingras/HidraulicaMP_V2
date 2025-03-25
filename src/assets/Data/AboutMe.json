@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "url_img_vid":"AboutMe/Soldadura.mp4",
+        "description":"Soy Manuel Pereyra y me dedico desde hace más de 20 años a la herrería de maquinaria pesada, camiones, grúas y mucho más."
+    },
+    {
+        "id":2,
+        "url_img_vid":"Services/Torneria.png",
+        "description":"En mis años de trabajo, no solo me dediqué a la herrería; también realizo trabajos de tornería e hidráulica desde hace mucho tiempo."
+    },
+    {
+        "id":3,
+        "url_img_vid":"AboutMe/CorteCNC.mp4",
+        "description":"Decidí abrir mi propio local no solo para ofrecer un servicio, sino también para ofrecer productos de calidad y brindar la mejor atención."
+    },
+    {
+        "id":4,
+        "url_img_vid":"AboutMe/Nosotros.jpeg",
+        "description":"Esto no es todo; también realizamos trabajos de plegado y corte de metales con pantógrafo CNC."
+    }
+]
