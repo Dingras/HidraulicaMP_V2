@@ -12,6 +12,6 @@ export async function GetCategoryById(id) {
 }
 
 export async function GetProductsByCategory(id) {
-    const resp = await GET(`${endpoints.products_by_category}${id}`)
+    const resp = await GET(`${endpoints.products_by_category}${id}/`)
     return resp
 }

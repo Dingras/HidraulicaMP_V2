@@ -23,8 +23,8 @@ export default function Products() {
     const GetDataCategory = async (id) => {
         try {
             const result = await GetCategoryById(id);
-            console.log(result.products)
-            setDataCategory(result.products);
+            console.log(result)
+            setDataCategory(result.category);
         } catch (error) {
             console.error("Error fetching data:", error);
         }
@@ -33,6 +33,7 @@ export default function Products() {
     const GetProductsFilter = async (id) => {
         try {
             const result = await GetProductsByCategory(id);
+            console.log(result)
             setDataProductsFilter(result.products);
         } catch (error) {
             console.error("Error fetching data:", error);
