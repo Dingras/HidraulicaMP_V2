@@ -13,7 +13,8 @@ export default function Categories() {
     const fetchApiData = async () => {
         try {
             const result = await GetCategories();
-            setCategories(result);
+            console.log(result.categories)
+            setCategories(result.categories);
         } catch (error) {
             console.error("Error fetching data:", error);
         } finally {
@@ -40,7 +41,7 @@ export default function Categories() {
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                             {
                                 categories.map((category) => (
-                                    <Category key={category.id} title={category.name} imageUrl={category.url_img} id_category={category.id} />
+                                    <Category key={category.id} title={category.name} imageUrl={category.image_url} id_category={category.id} />
                                 ))
                             }
                         </div>

@@ -1,7 +1,6 @@
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "../../components/Card"
 import { Button } from "../../components/Button"
 import HydraulicPistonLoader from "../../components/HydraulicPistonLoader/HydraulicPistonLoader"
-import endpoints from "../../assets/Data/APIendPoints.json"
 import { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { GetProductsByCategory, GetCategoryById } from "../../services/js/products"
@@ -24,7 +23,8 @@ export default function Products() {
     const GetDataCategory = async (id) => {
         try {
             const result = await GetCategoryById(id);
-            setDataCategory(result);
+            console.log(result.products)
+            setDataCategory(result.products);
         } catch (error) {
             console.error("Error fetching data:", error);
         }
