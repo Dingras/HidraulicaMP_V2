@@ -33,7 +33,7 @@ export default function Products() {
     const GetProductsFilter = async (id) => {
         try {
             const result = await GetProductsByCategory(id);
-            setDataProductsFilter(result)
+            setDataProductsFilter(result.products);
         } catch (error) {
             console.error("Error fetching data:", error);
         } finally {
