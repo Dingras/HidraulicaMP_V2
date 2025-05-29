@@ -1,26 +1,30 @@
 [
     {
-        "id":1,
-        "name":"Whatsapp",
-        "url":"https://wa.link/c9zokk",
-        "icon":"whatsapp"
+        "id": 1,
+        "name": "Whatsapp",
+        "url": "https://wa.link/c9zokk",
+        "icon": "whatsapp",
+        "svg": "https://api.iconify.design/flowbite:whatsapp-solid.svg"
     },
     {
         "id":2,
         "name":"Facebook",
         "url":"https://www.facebook.com/profile.php?id=100068467522498",
-        "icon":"facebook"
+        "icon":"facebook",
+        "svg":"https://api.iconify.design/flowbite:facebook-solid.svg"
     },
     {
         "id":3,
         "name":"Instagram",
         "url":"https://www.instagram.com/hidraulicamanuelpereyra",
-        "icon":"instagram"
+        "icon":"instagram",
+        "svg":"https://api.iconify.design/flowbite:instagram-solid.svg"
     },
     {
         "id":4,
         "name":"Email",
         "url":"mailto:hidraulicamp@gmail.com",
-        "icon":"mail"
+        "icon":"mail",
+        "svg":"https://api.iconify.design/flowbite:mail-box-outline.svg"
     }
 ]

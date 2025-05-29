@@ -56,8 +56,7 @@ export default function Footer() {
                                         href={contact.url}
                                         target='_blank'
                                         rel="noopener noreferrer" className="hover:text-red-500 transition-colors">
-                                        
-                                        <img src={`Icons/SVG/${contact.icon}.svg`} alt={contact.name} className="h-10 w-10 filter invert"/>
+                                        <img src={contact.svg} alt={contact.name} className="h-10 w-10 filter invert"/>
                                     </a>
                                 )
                                 )

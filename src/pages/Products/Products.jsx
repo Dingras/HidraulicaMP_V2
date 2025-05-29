@@ -45,7 +45,7 @@ export default function Products() {
     return (
         <div className="container mx-auto py-25 px-4 md:px-8 lg:px-16">
             <div className="text-center mb-12">
-                <h1 className="text-4xl font-bold text-blue-600 mb-4">Nuestros {dataCategory.name}</h1>
+                <h1 className="text-4xl font-bold text-blue-600 mb-4">{dataCategory.name}</h1>
                 <p className="text-xl text-gray-600 max-w-3xl mx-auto">
                     Ofrecemos una amplia gama de {dataCategory.name} de alta calidad diseñados para satisfacer tus necesidades.
                 </p>
@@ -63,7 +63,7 @@ export default function Products() {
                         >
                             <div className="relative h-48 justify-items-center">
                                 <img
-                                    src={product.url_img || "/placeholder.svg"}
+                                    src={product.image_url || "/placeholder.svg"}
                                     alt={product.name}
                                     className="h-48"
                                 />

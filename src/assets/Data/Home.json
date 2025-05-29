@@ -54,6 +54,11 @@
             "id": 8,
             "name":"Caproni",
             "img_url":"Partners/Caproni.png"
+        },
+        {
+            "id": 9,
+            "name":"EMTOP",
+            "img_url":"Partners/EMTOP.png"
         }
     ],
     "contact_us":{
