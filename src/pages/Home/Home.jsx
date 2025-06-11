@@ -4,6 +4,7 @@ import BrandsSection from '../../components/Home/BrandsSection'
 import ContactSection from '../../components/Home/ContactSection'
 import TestimonialsSection from '../../components/Home/TestimonialsSection'
 import WorkSeccion from '../../components/Home/WorkSection'
+import InstagramSecction from '../../components/InstagramSecction/InstagramSecction'
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
             <PrincipalHome/>
             <About/>
             <BrandsSection/>
+            <InstagramSecction/>
             <WorkSeccion/>
             <ContactSection/>
             <TestimonialsSection/>
